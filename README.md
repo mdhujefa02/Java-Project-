@@ -1,4 +1,3 @@
-# Java-Project-
 # Java Projects Collection
 
 This repository contains a collection of Java applications and games developed to demonstrate various concepts and functionalities of Java programming. Each project is structured as an independent Java application.
